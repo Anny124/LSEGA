@@ -1,11 +1,22 @@
 {
   "summary": {
     "title": "Modelado de Amenazas",
-    "owner": "Anny",
+    "owner": "",
     "description": "Modelado de amenzas de una aplicacion"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Spoofin",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "tampering",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ]
   }
 }
