@@ -1,7 +1,7 @@
 {
   "summary": {
     "title": "Modelado de Amenazas",
-    "owner": "",
+    "owner": "Aplicacion Web",
     "description": "Modelado de amenzas de una aplicacion"
   },
   "detail": {
@@ -16,6 +16,11 @@
         "title": "tampering",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 1
+      },
+      {
+        "title": "DDos",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 2
       }
     ]
   }
